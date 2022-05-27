@@ -20,7 +20,7 @@ Techs that I work frequently
  - Oracle RDBMS (ExaData)
  - MySQL
  
-Currently learning actively flutter and a lot of stuff
+Currently learning actively flutter, path planning in autonomous vehicles, ROS and a lot of stuff
  
 I hope to share some knowledge with you.
 
