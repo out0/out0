@@ -2,25 +2,29 @@ Hello!
 
 My name is Cristiano Oliveira. 
 
-I'm a computer engineer. I work primarily as a Data Engineer and Backend developer using C#, but I also work with Mobile solutions.
-As a hobby, I do research and development on digital electronics, communication protocols and home automation.
+I have a bachelors degree in Computer Engineering and a master of science (MS) degree in Computer Science. 
+I work as Data Engineer for fraud detection and as a researcher of Autonomous Vehicles, focused on Trajectory Planning.
+
 
 Languages that I work frequently:
- - C/C++ (electronics)
+ - C/C++ (electronics, CUDA programming)
+ - Python
  - C# (data engineering, backend)
- - Go (backend, Google Cloud projects)
- - Java (Android app)
- - Dart/Flutter (Mobile)
- - Python (small personal projects, automations, Big Data)  
+
+I've worked with other languages as well, including
+  - Go (backend, Google Cloud projects)
+  - PHP
+  - Java (android)
+  - Perl
 
 Techs that I work frequently
  - Cloud computing (Oracle & Google Cloud)
- - Big Data (Oracle appliance)
+ - Big Data
  - Linux
  - Oracle RDBMS (ExaData)
  - MySQL
  
-Currently learning actively flutter, path planning in autonomous vehicles, ROS and a lot of stuff
- 
 I hope to share some knowledge with you.
+
+If you fell like contributing, please check my research in  [link]https://www.researchgate.net/profile/Cristiano-Souza-De-Oliveira/research[/link]
 
