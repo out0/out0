@@ -26,5 +26,5 @@ Techs that I work frequently
  
 I hope to share some knowledge with you.
 
-If you fell like contributing, please check my research in  [link]https://www.researchgate.net/profile/Cristiano-Souza-De-Oliveira/research[/link]
+If you fell like contributing, please check my research on [ResearchGate](https://www.researchgate.net/profile/Cristiano-Souza-De-Oliveira/research)
 
